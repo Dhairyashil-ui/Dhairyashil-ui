@@ -1,59 +1,72 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=230&section=header&text=Dhairyashil%20Shinde&fontSize=44&fontAlignY=38&desc=AI%20Builder%20•%20Founder%20•%20Learning%20in%20Public&descAlignY=60&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,12&text=Dhairyashil%20Shinde&fontSize=44&fontAlignY=40&desc=Designing%20Intelligent%20Systems%20with%20AI&descAlignY=65&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;Turning+ideas+into+working+systems;Learning+by+shipping+real+projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&center=true&vCenter=true&width=700&lines=AI+Full+Stack+Builder;Founder+mindset%2C+Engineer+execution;Voice+%E2%86%92+Reasoning+%E2%86%92+Visual+Intelligence" />
 </p>
 
 ---
 
-## 👋 About Me
+## 👤 About Me
 
-I’m a **Computer Science student & AI-focused builder** who enjoys turning ideas into **working products**.
+I build **AI-powered products**, not just demos.
 
-I learn by **building real systems**, breaking them, fixing them, and improving them again.  
-My work spans **AI applications, full-stack development, and intelligent interfaces** — with a strong focus on clarity, performance, and real-world use.
+I’m a Computer Science student and founder who focuses on **end-to-end systems** — from frontend and backend to AI reasoning and visualization.  
+I believe the future of AI lies in **how it communicates**, not just what it predicts.
 
-Currently exploring how **voice, reasoning, and visual intelligence** can work together inside modern AI products.
-
----
-
-## 🧠 What I Work On
-
-- AI-powered web applications  
-- Voice-first & reasoning-driven interfaces  
-- Full-stack systems using modern JS + Python  
-- Graph-based visualizations for AI reasoning  
-- Turning hackathon ideas into production apps  
+Right now, I’m exploring how **voice, reasoning, and causal graphs** can work together to create intuitive AI experiences.
 
 ---
 
-## 🛠 Tools & Technologies I Work With
+## 🧩 What I’m Building
+
+- Voice-first AI interfaces  
+- Real-time reasoning & explanation systems  
+- Full-stack AI applications (web & backend)  
+- Graph-based visualization for understanding AI logic  
+- Production-ready versions of hackathon ideas  
+
+---
+
+## 🛠 Skills & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,reactnative,nodejs,express,mongodb,linux,git,github,html,css,d3&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,reactnative,nodejs,express,mongodb,d3,git,github,linux&perline=6" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-🔹 **Graphify**  
-Voice-first, multi-domain AI that explains answers using **live reasoning graphs**.
-
-🔹 **Agrimater**  
-AI-powered smart supply chain platform for agriculture (farm → market).
-
-🔹 **KrushiMitra**  
-Farmer-focused advisory platform using weather, mandi data, and AI insights.
-
-🔹 **QuickWash**  
-Tech-enabled service concept focused on operational optimization.
+**Core Strengths**
+- Python → **Advanced**
+- JavaScript / TypeScript → **Strong**
+- React & React Native → **Strong**
+- Node.js & APIs → **Production-ready**
+- Prompt Engineering & LLM reasoning → **Hands-on**
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Flagship Projects
+
+### 🔹 Graphify
+> A voice-first, multi-domain AI that **explains answers using live reasoning graphs**
+
+- Speak → AI reasons → Graph forms in real time  
+- Built to make AI thinking **visible & intuitive**
+
+### 🔹 Agrimater
+> AI-powered smart supply chain platform for agriculture
+
+- Farm → quality → logistics → delivery  
+- Built with a real-world impact mindset
+
+### 🔹 KrushiMitra
+> Farmer advisory platform using AI + data signals
+
+- Weather, mandi prices, government schemes  
+- Designed for accessibility & clarity
+
+---
+
+## 📊 Builder Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
@@ -65,11 +78,11 @@ Tech-enabled service concept focused on operational optimization.
 
 ---
 
-## 📫 Let’s Connect
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://dhairyashil.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/dhairyashil-shinde-6a50b4314/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -82,5 +95,6 @@ Tech-enabled service concept focused on operational optimization.
 ---
 
 <p align="center">
-  <i>Building in public. Learning in iterations.</i>
+  <i>Building systems, not just software.</i>
 </p>
+
