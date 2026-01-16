@@ -68,23 +68,12 @@ Tech-enabled service concept focused on operational optimization.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"/>
-</p>
-
----
 
 ## 📫 Let’s Connect
 
-- 🌐 Portfolio: *(add your site link here)*  
-- 💼 LinkedIn: *(add your LinkedIn)*  
-- 📧 Email: *(optional)*  
+- 🌐 Portfolio: *https://dhairyashil.vercel.app/*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/dhairyashil-shinde-6a50b4314/*  
+- 📧 Email: *dhairyashilshinde6715@gmail.com*  
 
 ---
 
