@@ -66,33 +66,30 @@ Right now, I’m exploring how **voice, reasoning, and causal graphs** can work 
 
 ---
 
-## 📊 Builder Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"/>
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://dhairyashil.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://dhairyashil.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/dhairyashil-shinde-6a50b4314/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dhairyashil-shinde-6a50b4314/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:dhairyashilshinde6715@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
 </p>
 
----
+<p align="center">
+  🌐 Portfolio &nbsp;•&nbsp; 💼 LinkedIn &nbsp;•&nbsp; 📧 Email
+</p>
+
+<p align="center">
+  <i>Open to collaboration, internships, and building meaningful AI products.</i>
+</p>
+
 
 <p align="center">
   <i>Building systems, not just software.</i>
