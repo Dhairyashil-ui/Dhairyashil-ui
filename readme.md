@@ -66,32 +66,23 @@ Right now, I’m exploring how **voice, reasoning, and causal graphs** can work 
 
 ---
 
+
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://dhairyashil.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="40" />
+  <a href="https://dhairyashil.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dhairyashil-shinde-6a50b4314/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  <a href="https://www.linkedin.com/in/dhairyashil-shinde-6a50b4314/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:dhairyashilshinde6715@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  🌐 Portfolio &nbsp;•&nbsp; 💼 LinkedIn &nbsp;•&nbsp; 📧 Email
-</p>
-
-<p align="center">
-  <i>Open to collaboration, internships, and building meaningful AI products.</i>
-</p>
-
+---
 
 <p align="center">
   <i>Building systems, not just software.</i>
 </p>
-
