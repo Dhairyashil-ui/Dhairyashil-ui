@@ -1,164 +1,209 @@
+<!-- ========================= HERO ========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,12&text=Dhairyashil%20Shinde&fontSize=44&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,12&text=Dhairyashil%20Shinde&fontSize=46&fontAlignY=40&desc=AI%20Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&center=true&vCenter=true&width=800&lines=Building+Production-Ready+AI+Systems;AI+Agents+%7C+RAG+%7C+Computer+Vision+%7C+Full-Stack+AI;Python+%7C+FastAPI+%7C+React+%7C+LangGraph+%7C+Docker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&center=true&vCenter=true&width=850&lines=Building+Production+AI+Systems;AI+Agents+%7C+Computer+Vision+%7C+Hybrid+RAG;Python+%7C+FastAPI+%7C+React+%7C+LangGraph+%7C+Docker"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social"/>
-  </a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-# 👋 Hi, I'm Dhairyashil
+# Hi, I'm Dhairyashil 👋
 
-I'm an **AI Engineer & Full Stack Developer** passionate about building production-ready intelligent systems.
+I'm a Computer Science student and AI Full Stack Developer focused on building production-oriented AI systems.
 
-My work focuses on designing AI applications that combine **LLMs, AI Agents, Retrieval-Augmented Generation (RAG), Computer Vision, and scalable backend systems** to solve real-world problems.
+My work combines **AI Agents**, **Hybrid RAG**, **Computer Vision**, **Backend Engineering**, and **Modern Web Applications** to solve real-world problems.
 
-Currently I'm exploring:
-
-- AI Agent Architectures
-- Hybrid RAG Systems
-- AI Memory Architectures
-- Computer Vision
-- Real-time AI Applications
-- Production AI Infrastructure
+I enjoy designing systems where language models interact with APIs, memory, vision models, and real-time data rather than building standalone chatbots.
 
 ---
 
-# 🚀 Featured Projects
+# What I'm Currently Building
 
-## 🧠 Multimodal AI Agent Orchestrator
+- AI Agent Orchestration using **LangGraph + MCP**
+- Hybrid Memory Architecture using **Vector + Graph Retrieval**
+- Voice-first AI Experiences
+- Computer Vision Systems with **YOLOv11**
+- Production-grade AI Backend Services
 
-Production-ready AI Agent built with LangGraph and MCP.
+---
 
-### Highlights
+# Featured Projects
 
-- Hybrid RAG Architecture
-- LangGraph Agent Workflow
-- Model Context Protocol (MCP)
-- AI Memory Architecture
-- Neo4j Knowledge Graph
+## Graphify
+
+Visual reasoning platform that transforms AI responses into interactive graphs, helping users understand how AI reaches conclusions.
+
+**Tech**
+
+`LangGraph` • `MCP` • `React` • `FastAPI`
+
+---
+
+## Multimodal AI Agent Orchestrator
+
+Production-ready AI agent capable of reasoning across memory, tools, structured actions, and contextual knowledge.
+
+### Features
+
+- Hybrid RAG
+- LangGraph Workflows
+- MCP Integration
 - FAISS Vector Search
-- FastAPI Backend
-- Docker Deployment
+- Neo4j Knowledge Graph
+- AI Memory Architecture
+- Structured JSON Actions
 
-**Tech**
+**Stack**
 
-`Python` `LangGraph` `MCP` `FastAPI`
-`Neo4j` `FAISS` `OpenCV` `Docker`
-
----
-
-## 🌾 Agrimater
-
-AI-powered agriculture platform helping farmers through intelligent recommendations.
-
-### Features
-
-- AI Crop Advisory
-- Weather Intelligence
-- Market Price Analysis
-- Voice-based Interaction
-- Secure Authentication
-- Production Android App
-
-**Tech**
-
-`Python`
-`FastAPI`
-`React`
-`Android`
-`PostgreSQL`
+Python • LangGraph • MCP • FastAPI • FAISS • Neo4j • Docker
 
 ---
 
-## 👥 Predictive Crowd Intelligence System
+## Predictive Crowd Intelligence System
 
-Real-time computer vision platform for crowd monitoring.
+Real-time crowd intelligence platform using computer vision for monitoring congestion, movement, and safety.
 
 ### Features
 
+- Live Crowd Analytics
+- Multi Object Tracking
 - YOLOv11 Detection
-- Multi-Object Tracking
-- Live Android Streaming
-- Crowd Risk Analysis
+- Android Streaming
 - Historical Analytics Dashboard
 
-**Tech**
+**Stack**
 
-`YOLOv11`
-`OpenCV`
-`FastAPI`
-`React`
-`WebSockets`
-`Docker`
+Python • OpenCV • YOLOv11 • FastAPI • React • PostgreSQL • Docker
 
 ---
 
-# 💻 Tech Stack
+## Agrimater
+
+AI-powered agriculture platform helping farmers with intelligent recommendations, multilingual assistance, crop intelligence, and production-ready backend services.
+
+### Features
+
+- Weather Intelligence
+- Crop Analysis
+- Voice Queries
+- Market Prices
+- AI Recommendations
+- Android Application
+
+---
+
+# Tech Stack
 
 ### Languages
 
-Python • TypeScript • JavaScript • SQL • Kotlin
+<p>
 
-### AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,ts,js,sql,kotlin"/>
 
-LLMs • AI Agents • LangGraph • MCP • Hybrid RAG • Prompt Engineering • FAISS • Neo4j • OpenCV • YOLOv11
+</p>
 
-### Frontend
+### AI Engineering
 
-React • Next.js • Tailwind CSS
+- AI Agents
+- LangGraph
+- MCP
+- Hybrid RAG
+- Prompt Engineering
+- FAISS
+- Neo4j
+- AI Memory Systems
 
 ### Backend
 
-FastAPI • Node.js • Express • REST APIs • WebSockets
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,docker"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+
+</p>
 
 ### Databases
 
-PostgreSQL • MongoDB • Supabase
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
+
+</p>
+
+### Computer Vision
+
+- OpenCV
+- YOLOv11
+- Multi Object Tracking
 
 ### DevOps
 
-Docker • Git • GitHub • Linux
+<p>
 
-### Architecture
-
-Microservices • Event-Driven Systems • Authentication • API Design
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux"/>
 
 </p>
 
 ---
 
-# 🌐 Connect
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
+
+</p>
+
+---
+
+# Currently Exploring
+
+- AI Agent Architecture
+- Memory Systems
+- LangGraph Workflows
+- Model Context Protocol (MCP)
+- Hybrid Retrieval
+- Computer Vision
+- Full Stack AI Products
+
+---
+
+# Connect
 
 <p align="center">
 
 <a href="https://dhairyashil.vercel.app">
+
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
 
 </a>
@@ -181,6 +226,6 @@ Microservices • Event-Driven Systems • Authentication • API Design
 
 <p align="center">
 
-<i>Building intelligent systems that solve real-world problems.</i>
+<b>Building intelligent systems that solve real-world problems.</b>
 
 </p>
