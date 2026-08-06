@@ -44,16 +44,6 @@ I enjoy designing systems where language models interact with APIs, memory, visi
 
 # Featured Projects
 
-## Graphify
-
-Visual reasoning platform that transforms AI responses into interactive graphs, helping users understand how AI reaches conclusions.
-
-**Tech**
-
-`LangGraph` • `MCP` • `React` • `FastAPI`
-
----
-
 ## Multimodal AI Agent Orchestrator
 
 Production-ready AI agent capable of reasoning across memory, tools, structured actions, and contextual knowledge.
