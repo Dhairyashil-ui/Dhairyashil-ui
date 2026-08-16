@@ -1,50 +1,94 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=AI+Full+Stack+Developer;Prompt+Engineer+%7C+LLM+Systems;Building+Multi-Agent+AI+that+Ships" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=Dhairyashil%20Shinde&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Full%20Stack%20Developer%20%7C%20Prompt%20Engineer&descAlignY=58&descSize=20" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+LLM-Powered+Multi-Agent+Systems;Prompt+Engineering+%7C+RAG+%7C+Computer+Vision;Full+Stack+AI+Developer+%40+Agrimater;HarvardX+CS50+Certified+%F0%9F%8E%93" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/dhairyashilshinde"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:dhairyashilshinde6715@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://portfolio-dhairyashil.dev"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/dhairyashilshinde"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=dhairyashilshinde&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/dhairyashilshinde?style=for-the-badge&color=2563EB&labelColor=black" />
 
 </div>
 
-### Hi, I'm Dhairyashil 👋
+<br/>
 
-I build production AI systems — LLM-powered multi-agent architectures, RAG pipelines, and computer vision — end-to-end, from model behavior to the UI that ships it.
+## 🧠 About Me
 
-**Currently:**
-- 🧠 Designing and evaluating prompts for GPT & Anthropic Claude to cut hallucination and improve output reliability
-- 🕸️ Building a multi-agent orchestrator with LangGraph + MCP, backed by hybrid RAG (FAISS + Neo4j)
-- 📱 Shipped an AI recommendation layer in production that lifted user outcomes by 18%
-- 🎓 HarvardX CS50 certified — CS50x, CS50P, CS50AI
+```yaml
+name: Dhairyashil Shinde
+role: AI Full Stack Developer / Prompt Engineer
+location: Pune, India
+currently_building: Multimodal AI Agent Orchestrator (LangGraph + MCP + Hybrid RAG)
+currently_optimizing: Prompts for GPT & Anthropic Claude — reducing hallucination in production
+shipped: AI recommendation layer → 18% lift in user outcomes, 20+ features on Google Play
+certified: HarvardX CS50x, CS50P, CS50AI
+fun_fact: "I debug LLM prompts the same way I debug code — one edge case at a time."
+```
 
-📍 Pune, India&nbsp;&nbsp;|&nbsp;&nbsp;📫 dhairyashilshinde6715@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;[LinkedIn](https://linkedin.com/in/dhairyashilshinde)&nbsp;&nbsp;|&nbsp;&nbsp;[Portfolio](https://portfolio-dhairyashil.dev)
+<br/>
 
----
-
-### Stack
-
-| Layer | Tools |
-|---|---|
-| **Prompt Engineering & LLMs** | ![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-FAISS%20%2B%20Neo4j-4B8BBE?style=flat-square) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-
----
-
-### Featured Projects
-
-**[Multimodal AI Agent Orchestrator](https://github.com/dhairyashilshinde)** — Event-driven multi-agent LLM system using LangGraph + MCP with hybrid vector/graph/episodic memory (FAISS, Neo4j) for grounded, low-hallucination responses.
-
-**[Predictive Crowd Intelligence System](https://github.com/dhairyashilshinde)** — Real-time crowd analytics platform: YOLOv11 + multi-object tracking, FastAPI + WebSockets, Android-to-cloud pipeline for live congestion alerts.
-
----
-
-### GitHub Stats
+## ⚡ Tech Stack
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhairyashilshinde&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyashilshinde&layout=compact&hide_border=true" />
+
+**Prompt Engineering & LLMs**
+<br/>
+<img src="https://skillicons.dev/icons?i=openai,anthropic&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-D97757?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-Hybrid%20%7C%20FAISS%20%2B%20Neo4j-4B8BBE?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=flat-square" />
+
+<br/><br/>
+
+**Languages & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,react,nextjs,tailwind,fastapi,nodejs&theme=dark" />
+
+<br/><br/>
+
+**Data, Infra & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,vscode,figma&theme=dark" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+
+
+</div>
+
+> 🕸️ **Multimodal AI Agent Orchestrator** — Event-driven multi-agent LLM system (LangGraph + MCP) with hybrid vector/graph/episodic memory for grounded, low-hallucination responses.
+>
+> 👥 **Predictive Crowd Intelligence System** — Real-time crowd analytics: YOLOv11 + multi-object tracking, FastAPI + WebSockets, Android-to-cloud pipeline for live alerts.
+
+
+<br/>
+
+
+## 🎓 Certifications
+
+<div align="center">
+<img src="https://img.shields.io/badge/HarvardX-CS50x%20Intro%20to%20CS-A51C30?style=for-the-badge&logo=harvard&logoColor=white" />
+<img src="https://img.shields.io/badge/HarvardX-CS50P%20Python-A51C30?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HarvardX-CS50AI%20Artificial%20Intelligence-A51C30?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=120&section=footer" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyashilshinde&hide_border=true" />
+<i>Thanks for stopping by — let's build something intelligent together. 🚀</i>
 </div>
