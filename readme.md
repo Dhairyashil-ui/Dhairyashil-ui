@@ -6,10 +6,10 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/dhairyashilshinde"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dhairyashil-shinde-6a50b4314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:dhairyashilshinde6715@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://portfolio-dhairyashil.dev"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/dhairyashilshinde"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://dhairyashil.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/dhairyashil-ui"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=dhairyashilshinde&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/dhairyashilshinde?style=for-the-badge&color=2563EB&labelColor=black" />
